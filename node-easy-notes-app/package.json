@@ -1,0 +1,24 @@
+{
+  "name": "easy-notes-app",
+  "version": "1.0.0",
+  "description": "Building a Restful CRUD API with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audwinnn/node-easy-notes-app.git"
+  },
+  "author": "Audouin C. Bulanhagui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Audwinnn/node-easy-notes-app/issues"
+  },
+  "homepage": "https://github.com/Audwinnn/node-easy-notes-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  }
+}
